@@ -1,2 +1,2 @@
 # miniproject
-### number plate recognition using tesseract and tkinter as GUI 
+### number plate recognition using tesseract , opencv and tkinter as GUI 
